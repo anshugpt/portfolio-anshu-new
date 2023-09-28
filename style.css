@@ -117,6 +117,8 @@
     opacity: 1;
 }
 #source-code {
-    text-decoration: none;
-    color: rgb(146, 14, 47);
+    color: black;
+}
+#source-code:hover {
+    color: white;
 }
